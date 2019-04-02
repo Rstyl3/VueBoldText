@@ -1,4 +1,5 @@
 # bold-text
+Simple example of injecting bold text to a string without using v-html.
 
 ## Project setup
 ```
